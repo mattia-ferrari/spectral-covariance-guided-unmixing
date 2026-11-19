@@ -1,11 +1,14 @@
 # Spectral Covariance-Guided Unmixing
 
-This repository will host the code accompanying the paper:
+Official repository for the paper:
 
-**Spectral Covariance-Guided Unmixing for Forest Species Composition with Reconstruction-Weighted Averaging**
+**Spectral Covariance-Guided Unmixing for Forest Species Composition with Reconstruction-Weighted Averaging**  
+Mattia Ferrari, Antonio Plaza, and Lorenzo Bruzzone  
+*Under review for publication in IEEE Transactions on Geoscience and Remote Sensing.*
 
-Mattia Ferrari, Antonio Plaza, and Lorenzo Bruzzone
+The paper presents a covariance-aware hyperspectral unmixing approach for estimating forest species composition from limited, weakly labelled reference data, without requiring pure endmembers.
 
 ## Code availability
 
-This repository currently serves as a placeholder. The source code and instructions for reproducing the experiments will be made publicly available here upon publication of the paper.
+The code and instructions to reproduce the experiments will be made publicly available in this repository **upon publication of the paper**.
+
